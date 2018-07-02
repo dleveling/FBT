@@ -10,7 +10,7 @@ public class LoginActivity extends AppCompatActivity {
 
     Button loginButton;
     ProgressBar loginProgress;
-
+    //HelloGit
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
